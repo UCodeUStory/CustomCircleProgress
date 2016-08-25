@@ -1,0 +1,5 @@
+# CustomCircleProgress
+
+自定义环形进度条，上一个CustomProgressView 也是一个环形进度条，功能也很完整，动态变化采用即使取系统毫秒差值，通过增加圆弧长度来实现的；
+
+这一次使用的是Path和PathMeasure，动态变化长度采用ValueAnimator ，然后通过截取路径的不同长度来实现，感兴趣可以加我qq 1483888222
